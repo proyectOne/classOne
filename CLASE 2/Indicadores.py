@@ -4,7 +4,7 @@ from pyquery import PyQuery
 class Indicadores():
 
     def indicadoresEconomicos(self):
-        req = Request('https://www.dane.gov.co/index.php/indicadores-economicos',None,{'User-agent' : 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0'})
+        req = Request('https://www.dane.gov.co/index.php/indicadores-economicos',None,{'User-agent' : "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/537.13 (KHTML, like Gecko) Chrome/24.0.1290.1 Safari/537.13ua['google chrome']"})
         content = urlopen(req).read()
 
         pq = PyQuery(content)

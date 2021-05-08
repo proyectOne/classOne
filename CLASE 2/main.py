@@ -6,3 +6,4 @@ resultado = float(i.indicadoresEconomicos())*valor
 print(resultado)
 
 
+
