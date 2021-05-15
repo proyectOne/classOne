@@ -1,0 +1,5 @@
+*********************************************{'variable': 'salario basico ', 'Resultado': 1000.0}
+{'variable': 'dias liquidados', 'Resultado': 2.0}
+{'variable': 'salario devengado', 'Resultado': 66.66666666666667}
+{'variable': 'auxilio de tranporte', 'Resultado': 7096.933333333333}
+{'variable': 'totaldevengado', 'Resultado': 7163.6}
